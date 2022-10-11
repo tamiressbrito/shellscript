@@ -1,2 +1,2 @@
 # shellscript
-Hello Word
+Hello World
